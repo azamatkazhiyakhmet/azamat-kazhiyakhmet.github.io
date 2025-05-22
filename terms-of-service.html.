@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service - Encryption Tool</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f5f6fa;
+            color: #2c3e50;
+        }
+        h1 {
+            font-size: 2em;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p>By using this application, you agree to use it for lawful purposes only. We are not responsible for data loss or misuse.</p>
+    <p>Last updated: May 22, 2025</p>
+    <p>Contact: almighty6o6a@gmail.com</p>
+    <p><a href="index.html">Back to Home</a></p>
+</body>
+</html>
